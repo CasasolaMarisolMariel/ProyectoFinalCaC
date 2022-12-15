@@ -1,0 +1,12 @@
+html,body{
+    margin: 0; /* NUEVO */
+  }
+  
+  /* NUEVA CLASE */
+  nav.navbar-default.negro{
+    background-color: black;
+    border-color: black;
+  }
+body{
+    background: white;
+}
